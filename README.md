@@ -26,6 +26,6 @@ $ npm install
 $ npm start
 ```
 ## Author
-Leonardo Avendaño
+kratzx
 
 [logo]: ./images/jojopic.jpg "random JoJo picture"
