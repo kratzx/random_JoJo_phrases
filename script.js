@@ -55,7 +55,7 @@ const jojoPhrases = {
         let outputArc = this._data[randomNum].arc;
 
         // Output formatted phrase
-        return `${outputPhrase} \n By: ${outputUtterer} \n On: ${outputArc}`;
+        return `"${outputPhrase}" \n By: ${outputUtterer} \n On: ${outputArc}`;
     }        
 };
 
