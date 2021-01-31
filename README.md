@@ -8,6 +8,7 @@ Js program used for practicing. Outputs random phrases from the series JoJo.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Author](#author)
 
 ## General info
 This project uses phrases from various arcs from the manga series: JoJo's Bizarre Adventures. The phrases were chosen completely on a bias.
